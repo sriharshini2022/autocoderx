@@ -55,9 +55,6 @@ AUTOCODER X is an AI-powered coding assistant that helps you debug, explain, opt
 - pillow (PIL)
 - python-dotenv (optional for environment variable management)
 
-## 🌟 Screenshots
-![AUTOCODER X Interface](screenshot.png)
-
 ## 🔮 Future Enhancements
 - 📱 Mobile application
 - 🎥 Video code analysis
