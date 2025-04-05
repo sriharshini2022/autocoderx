@@ -64,9 +64,6 @@ AUTOCODER X is an AI-powered coding assistant that helps you debug, explain, opt
 ## 👩‍💻 Contributors
 Created by Team Harshini
 
-## 📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## 🙏 Acknowledgements
 - Google Generative AI for powering the AI features
 - Streamlit for the web application framework
