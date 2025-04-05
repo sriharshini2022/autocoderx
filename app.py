@@ -28,7 +28,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 
-st.markdown("<h1 style='text-align: center; color: #007bff;'>✨ CODE GPT ✨</h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align: center; color: #007bff;'>✨ AUTOCODERX ✨</h1>", unsafe_allow_html=True)
 st.markdown("#### 🚀 Empower Your Coding with AI | Debug • Explain • Optimize")
 
 
@@ -151,4 +151,4 @@ if st.button("✨ Process with AI"):
 
 
 st.markdown("<hr>", unsafe_allow_html=True)
-st.markdown("<p style='text-align: center;'>🚀 Created by TEAM ARJUNA AI</p>", unsafe_allow_html=True)
+st.markdown("<p style='text-align: center;'>🚀 Created by TEAM HARSHINI</p>", unsafe_allow_html=True)
