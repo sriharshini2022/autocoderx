@@ -3,7 +3,7 @@ import google.generativeai as genai
 from PIL import Image  
 
 
-GOOGLE_API_KEY = "AIzaSyBChtpfxdTTuHGV_UY1-i6EpBhC03-1K1M"
+GOOGLE_API_KEY = "fhjhx"
 genai.configure(api_key=GOOGLE_API_KEY)
 
 st.set_page_config(page_title="AUTOCODER X", page_icon="🧑‍💻")
@@ -152,3 +152,4 @@ if st.button("✨ Process with AI"):
 
 st.markdown("<hr>", unsafe_allow_html=True)
 st.markdown("<p style='text-align: center;'>🚀 Created by TEAM HARSHINI</p>", unsafe_allow_html=True)
+
